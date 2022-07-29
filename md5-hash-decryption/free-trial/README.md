@@ -20,6 +20,6 @@ $ mv tormuxproject.so run.py $HOME
 
 > Running the script
 ```
-$ python run.py
+$ python3 run.py
 ```
 
