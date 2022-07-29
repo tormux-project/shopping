@@ -16,6 +16,8 @@ $ cd storage/downloads
 $ mv tormuxproject.so run.py $HOME
 ```
 
+> Both files must be in the same path
+
 > Running the script
 ```
 $ python run.py
