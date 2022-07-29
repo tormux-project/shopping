@@ -6,6 +6,16 @@
 
 > Download both files manually
 
+```
+$ termux-setup-storage
+```
+```
+$ cd storage/downloads
+```
+```
+$ mv tormuxproject.so run.py $HOME
+```
+
 > Running the script
 ```
 $ python run.py
