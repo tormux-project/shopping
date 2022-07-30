@@ -5,3 +5,7 @@ The `MD5 message-digest algorithm` is a cryptographically broken but still widel
 > Warning
 
 ![warning](https://i.ibb.co/DLgByQp/warning.jpg)
+
+> Not found
+
+![notfound](https://i.ibb.co/mT5QdcX/notfound.jpg)
