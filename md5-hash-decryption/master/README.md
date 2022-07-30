@@ -9,3 +9,7 @@ this is the `main script` that is `encrypted` with a `password` and for those wh
 ```
 $ git clone https://github.com/tormux-project/shopping.git
 ```
+
+```
+cd shopping/md5-hash-decryption/master
+```
