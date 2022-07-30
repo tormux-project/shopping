@@ -4,7 +4,7 @@
 
 > Warning! do not change the name or make edits so that the script can run
 
-> Download both files manually
+> Download files or clone this repo
 
 ```
 $ termux-setup-storage
