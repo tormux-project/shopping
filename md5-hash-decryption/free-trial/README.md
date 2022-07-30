@@ -4,21 +4,18 @@
 
 > Warning! do not change the name or make edits so that the script can run
 
-> Download files or clone this repo
+> Clone this repo
 
 ```
-$ termux-setup-storage
-```
-```
-$ cd storage/downloads
-```
-```
-$ mv tormuxproject.so run.py $HOME
+$ git clone https://github.com/tormux-project/shopping.git
 ```
 
-> Both files must be in the same path
+```
+$ cd shopping/md5-hash-decryption/free-trial
+```
 
 > Running the script
+
 ```
 $ python3 run.py
 ```
